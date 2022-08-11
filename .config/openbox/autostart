@@ -1,0 +1,6 @@
+xset -b
+picom &
+tint2 &
+sxhkd &
+feh --bg-scale ~/.config/openbox/wallpapers/black.jpg &
+

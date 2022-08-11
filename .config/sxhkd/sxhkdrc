@@ -1,0 +1,21 @@
+###################
+#latte-mix hotkeys#
+###################
+
+#
+
+#terminal
+shift + T
+     terminator
+    
+#rofi
+shift + R
+    rofi -show run
+
+#firefox
+shift + F
+    firefox
+
+#thunar
+shift + M
+    thunar

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=latte-mix v0.1
+Comment= latte-mix is custom Desktop Environment
+Exec=/usr/bin/openbox-session
+Icon=
+Type=Application
+X-Ubuntu-Gettext-Domain=lightdm

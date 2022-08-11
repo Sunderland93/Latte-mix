@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=rofi
+Exec=rofi -show run
+Comment=rofi
+Terminal=false
+Icon=
+Type=Application
