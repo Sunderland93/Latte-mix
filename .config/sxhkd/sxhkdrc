@@ -5,17 +5,17 @@
 #
 
 #terminal
-shift + T
+ctrl + t
      terminator
     
 #rofi
-shift + R
+ctrl + r
     rofi -show run
 
 #firefox
-shift + F
+ctrl + f
     firefox
 
 #thunar
-shift + M
+ctrl + m
     thunar
