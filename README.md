@@ -22,4 +22,4 @@ Latte-mix is a customizable desktop environment that uses openbox as its window 
 ### sudo apt install openbox tint2 thunar rofi adapta-gtk-theme feh obconf xorg terminator sxhkd
 
 ### Fedora/RHEL:
-### sudo dnf install openbox tint2 thunar rofi adapta-gtk-theme feh obconf xorg terminator sxhkd
+### sudo dnf install openbox tint2 thunar rofi adapta-gtk-theme feh obconf xorg-x11-server-Xorg terminator sxhkd
